@@ -8,3 +8,4 @@ function "inOrder" is for printing data in the way (left . root . right).
 
 function "PostOrder" is for printing data in the way (left . right . root).
 
+function "BFS" is for printing data in level order.
